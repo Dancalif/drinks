@@ -1,9 +1,11 @@
-#Basic Project
+# Drinks class
 
-Basic Java Maven Project Structure
+The app that creates and works with Drinks class and subclasses
 
-*QA
+*Junit
 *Java
 *Maven
+*Class
+*Subclasses
 
 [Denis Umanets](http://sqasolution.com)
