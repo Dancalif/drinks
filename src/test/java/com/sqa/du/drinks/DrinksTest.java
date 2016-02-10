@@ -1,7 +1,10 @@
 package com.sqa.du.drinks;
 
-public class DrinksTest extends Drinks {
-	public void test() {
+import org.junit.Test;
+
+public class DrinksTest {
+	@Test
+	public void myTest() {
 		Drinks[] drinks = new Drinks[] { new Wine(), new Vodka(), new Juice(), new Water() };
 
 		for (int i = 0; i <= drinks.length; i++)
